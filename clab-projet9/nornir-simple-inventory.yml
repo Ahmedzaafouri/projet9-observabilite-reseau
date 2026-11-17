@@ -1,0 +1,51 @@
+---
+sw-dmz:
+    username: 
+    password: 
+    platform: bridge
+    hostname: 
+sw-lan:
+    username: 
+    password: 
+    platform: bridge
+    hostname: 
+attacker:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.66
+pc1:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.21
+pc2:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.22
+r-core:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.11
+r-dmz:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.13
+r-lan:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.12
+srv-dns:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.53
+srv-web:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.30
